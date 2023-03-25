@@ -1,0 +1,15 @@
+{
+  "name": "book_my_ticket",
+  "version": "1.0.0",
+  "description": "clone of book my show with some additional features",
+  "main": "index.js",
+  "test": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Punam Kumavat",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
